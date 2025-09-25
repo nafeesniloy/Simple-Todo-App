@@ -114,5 +114,8 @@ simple-todo-app/
 ---
 
 ## 📜 License
+MIT License
+
+Copyright (c) 2025 S.M. Nafees Hossain Niloy
 
 This project is released under the MIT License.
